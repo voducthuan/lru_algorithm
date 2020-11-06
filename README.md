@@ -1,6 +1,6 @@
 # LRU Cache
 
-**A. To run the program**
+**I. Run the program**
 
 1. Execute java class
    
@@ -51,6 +51,6 @@ Map item:[{0=lru.item@15db9742, 2=lru.item@6d06d69c, 3=lru.item@7852e922, 4=lru.
   
   Key 1, value:-1
 
-**B. JUnit test in LRU Cache**
+**II. JUnit test in LRU Cache**
 
 LRU program has **LRUTestCases.java** to support test cases on: set method, get method, size of cache, head item, end item, map items.
