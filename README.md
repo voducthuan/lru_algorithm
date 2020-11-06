@@ -3,11 +3,9 @@
 **A. To run the program**
 
 1. Execute java class
-   e.g., 
    
    **java lru_run**
 2. Or execute jar file
-   e.g., 
    
    **java -jar lru_cache.jar**
 
