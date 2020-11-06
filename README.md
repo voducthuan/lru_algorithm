@@ -11,7 +11,7 @@
    
    java -jar lru_cache.jar
 
-LRU cache program supports options of 3 cases (they can be modified manually) for running.
+LRU cache program supports 3 cases options (they can be modified manually) for running.
 
 Example:
 
