@@ -5,11 +5,11 @@
 1. Execute java class
    e.g., 
    
-   java lru_run
+   **java lru_run**
 2. Or execute jar file
    e.g., 
    
-   java -jar lru_cache.jar
+   **java -jar lru_cache.jar**
 
 LRU cache program supports 3 cases options (they can be modified manually) for running.
 
@@ -55,4 +55,4 @@ Map item:[{0=lru.item@15db9742, 2=lru.item@6d06d69c, 3=lru.item@7852e922, 4=lru.
 
 **B. JUnit test in LRU Cache**
 
-LRU program has LRUTestCases.java to support test cases on: set method, get method, size of cache, head item, end item, map items.
+LRU program has **LRUTestCases.java** to support test cases on: set method, get method, size of cache, head item, end item, map items.
