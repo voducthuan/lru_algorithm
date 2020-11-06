@@ -38,13 +38,19 @@ Sample output of case 1:
 Map item:[{0=lru.item@15db9742, 2=lru.item@6d06d69c, 3=lru.item@7852e922, 4=lru.item@4e25154f}]
   
   Head key: 2
+  
   Head value:85
+  
   End key:3
+  
   End value:95
 
 -----------Getting Items-------------
+  
   Key 0, value: 91
+  
   Key 3, value:95
+  
   Key 1, value:-1
 
 **B. JUnit test in LRU Cache**
